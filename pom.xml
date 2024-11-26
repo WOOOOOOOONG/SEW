@@ -19,7 +19,7 @@
 	<!-- properties 태그를 이용하여 변수를 선언하여 다른 소스에 참조하도록 함 -->
 	<properties>
 		<java-version>1.8</java-version>
-		<org.springframework-version>5.2.2.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.4.RELEASE</org.springframework-version>
 		<org.aspectj-version>1.6.10</org.aspectj-version>
 		<org.slf4j-version>1.6.6</org.slf4j-version>
 	</properties>
